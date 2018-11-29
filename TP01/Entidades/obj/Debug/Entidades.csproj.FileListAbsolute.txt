@@ -1,0 +1,16 @@
+c:\users\luz\documents\visual studio 2012\Projects\Calculadora\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+c:\users\luz\documents\visual studio 2012\Projects\Calculadora\Entidades\bin\Debug\Entidades.dll
+c:\users\luz\documents\visual studio 2012\Projects\Calculadora\Entidades\bin\Debug\Entidades.pdb
+c:\users\luz\documents\visual studio 2012\Projects\Calculadora\Entidades\obj\Debug\Entidades.dll
+c:\users\luz\documents\visual studio 2012\Projects\Calculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\Entidades\bin\Debug\Entidades.dll
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\Entidades\obj\Debug\Entidades.dll
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,38 @@
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\Calculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\Calculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\Calculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\Calculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\Calculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\Calculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Luz\Documents\Visual Studio 2012\Projects\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\Luz\Desktop\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Luz\Desktop\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Luz\Desktop\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Luz\Desktop\tp_laboratorio_2-master\RecuperatoriosTP\TP01\MiCalculadora\obj\Debug\MiCalculadora.pdb
