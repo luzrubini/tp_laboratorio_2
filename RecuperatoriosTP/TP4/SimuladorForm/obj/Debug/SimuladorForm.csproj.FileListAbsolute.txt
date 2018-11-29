@@ -1,0 +1,10 @@
+C:\Users\emili\Documents\GitHub\tp_laboratorio_2\tp4\SimuladorForm\bin\Debug\SimuladorForm.exe.config
+C:\Users\emili\Documents\GitHub\tp_laboratorio_2\tp4\SimuladorForm\bin\Debug\SimuladorForm.exe
+C:\Users\emili\Documents\GitHub\tp_laboratorio_2\tp4\SimuladorForm\bin\Debug\SimuladorForm.pdb
+C:\Users\emili\Documents\GitHub\tp_laboratorio_2\tp4\SimuladorForm\obj\Debug\SimuladorForm.csprojAssemblyReference.cache
+C:\Users\emili\Documents\GitHub\tp_laboratorio_2\tp4\SimuladorForm\obj\Debug\SimuladorForm.FrmPpal.resources
+C:\Users\emili\Documents\GitHub\tp_laboratorio_2\tp4\SimuladorForm\obj\Debug\SimuladorForm.Properties.Resources.resources
+C:\Users\emili\Documents\GitHub\tp_laboratorio_2\tp4\SimuladorForm\obj\Debug\SimuladorForm.csproj.GenerateResource.cache
+C:\Users\emili\Documents\GitHub\tp_laboratorio_2\tp4\SimuladorForm\obj\Debug\SimuladorForm.csproj.CoreCompileInputs.cache
+C:\Users\emili\Documents\GitHub\tp_laboratorio_2\tp4\SimuladorForm\obj\Debug\SimuladorForm.exe
+C:\Users\emili\Documents\GitHub\tp_laboratorio_2\tp4\SimuladorForm\obj\Debug\SimuladorForm.pdb
